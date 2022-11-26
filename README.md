@@ -17,5 +17,5 @@ In the project directory, you can run:
 ### `npm install`
 To install dependencies
 
-### `npm run dev`
-To run index file
+### `npm start`
+To run app.js file
